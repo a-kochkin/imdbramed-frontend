@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/imdbramed/static/js/main.aa69c9aa.js",
-    "index.html": "/imdbramed/index.html",
-    "main.aa69c9aa.js.map": "/imdbramed/static/js/main.aa69c9aa.js.map"
+    "main.js": "/imdbramed-frontend/static/js/main.aa69c9aa.js",
+    "index.html": "/imdbramed-frontend/index.html",
+    "main.aa69c9aa.js.map": "/imdbramed-frontend/static/js/main.aa69c9aa.js.map"
   },
   "entrypoints": [
     "static/js/main.aa69c9aa.js"
