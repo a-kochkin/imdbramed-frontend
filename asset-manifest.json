@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/imdbramed-frontend/static/js/main.c29ebafa.js",
-    "index.html": "/imdbramed-frontend/index.html",
-    "main.c29ebafa.js.map": "/imdbramed-frontend/static/js/main.c29ebafa.js.map"
+    "main.js": "/imdbramed/static/js/main.aa69c9aa.js",
+    "index.html": "/imdbramed/index.html",
+    "main.aa69c9aa.js.map": "/imdbramed/static/js/main.aa69c9aa.js.map"
   },
   "entrypoints": [
-    "static/js/main.c29ebafa.js"
+    "static/js/main.aa69c9aa.js"
   ]
 }
